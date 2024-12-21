@@ -5,7 +5,7 @@ Provides filling of the object with any properties. They can be serialized.
 Sirenix Odin Inspector
 
 ### Install from Unity Package Manager.
-You can add `https://github.com/error911/GalaxyMessages.git?path=Assets/Plugins/GalaxyProperty` to Package Manager
+You can add `https://github.com/error911/GalaxyProperty.git?path=Assets/Plugins/GalaxyProperty` to Package Manager
 
 ![image](https://user-images.githubusercontent.com/46207/79450714-3aadd100-8020-11ea-8aae-b8d87fc4d7be.png)
 
