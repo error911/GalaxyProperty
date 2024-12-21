@@ -1,7 +1,7 @@
 # GalaxyProperties
 Provides filling of the object with any properties. They can be serialized.
 
-#Requirements
+## Requirements
 Sirenix Odin Inspector
 
 ### Install from Unity Package Manager.
