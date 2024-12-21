@@ -1,0 +1,19 @@
+{
+  "name": "com.unity.galaxyproperty",
+  "displayName": "GalaxyProperty",
+  "author": { "name": "Murnik Roman", "url": "https://cysharp.co.jp/en/" },
+  "version": "1.0.0",
+  "unity": "2022.3",
+  "description": "Provides filling of the object with any properties. They can be serialized.",
+  "keywords": [ 
+	"Properties",
+	"Serialize",
+	"Deserialize", 
+	"Variables",
+	"Supplement",
+	"Json"
+	],
+  "license": "MIT",
+  "category": "Object",
+  "dependencies": {}
+}
