@@ -9,6 +9,28 @@ You can add `https://github.com/error911/GalaxyProperty.git?path=Assets/Plugins/
 
 ![image](https://user-images.githubusercontent.com/46207/79450714-3aadd100-8020-11ea-8aae-b8d87fc4d7be.png)
 
+### Fast start
+The example is in the _SAMPLE_ folder
+The first thing you need to do is create a Resources folder and place the property group json file (PropertyKeys.json) of groups of properties
+
+Sample: "Resources/PropertyKeys.json"
+```json
+{
+  "_value": [
+    "Action",
+    "Settings",
+    "View/Object",
+    "View/UI",
+    "Image/Icon",
+    "Image/IconReference",
+    "Text/TitleKey",
+    "Text/DescriptionKey",
+    "Music"
+  ]
+}
+```
+
+
 Usage: Get property
 ---
 ```csharp
@@ -29,6 +51,8 @@ private void Test()
 }
 
 ```
+
+
 
 
 remember to use: `namespace Properties`
